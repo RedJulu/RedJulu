@@ -1,16 +1,51 @@
-## Hi there 👋
+<div style="display: grid; justify-items: center; text-align: center; gap: 20px;">
 
-<!--
-**RedJulu/RedJulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+    <h1 align="center" style="border-bottom: none;">Heyho ich bin RedJulu (Julian) 👋</h1>
+    <p>Ich code gerne für Minecraft ⛏️</p>
+    <p style="color: #8b949e;">📍 Deutschland &nbsp;|&nbsp; 💼 Schüler</p>
+  </div>
 
-Here are some ideas to get you started:
+  <div>
+    <h3>Programmiersprachen:</h3>
+    <img src="https://skillicons.dev/icons?i=java,kotlin&perline=5" />
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <h3>Basisverständnis:</h3>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,lua&perline=5" />
+  </div>
+
+  <div>
+    <h3>Compiler Tools & IDE:</h3>
+    <img src="https://skillicons.dev/icons?i=maven,gradle,idea&perline=5" />
+  </div>
+
+  <div>
+    <h3>Backend:</h3>
+    <img src="https://skillicons.dev/icons?i=redis,postgres,mysql,docker&perline=5" />
+  </div>
+
+  <div>
+    <h3>Frontend:</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&perline=5" />
+  </div>
+
+  <div>
+    <h3>Weitere Tools:</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,linux&perline=5" />
+  </div>
+
+  <div>
+    <h2>Socials:</h2>
+    <div style="display: grid; grid-auto-flow: column; justify-content: center; gap: 10px;">
+      <a href="https://github.com/redjulu">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+      </a>
+      <a href="https://discord.gg/DEINLINK">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord">
+      </a>
+    </div>
+  </div>
+
+</div>
