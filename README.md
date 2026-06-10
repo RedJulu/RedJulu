@@ -42,7 +42,7 @@
       <a href="https://github.com/redjulu">
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
       </a>
-      <a href="https://discord.gg/DEINLINK">
+      <a href="https://discord.gg/https://discord.gg/Jj9g735VeV">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord">
       </a>
     </div>
