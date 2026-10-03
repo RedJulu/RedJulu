@@ -23,7 +23,7 @@
 
   <div>
     <h3>Backend:</h3>
-    <img src="https://skillicons.dev/icons?i=redis,postgres,mysql,docker&perline=5" />
+    <img src="https://skillicons.dev/icons?i=redis,postgres,mysql&perline=5" />
   </div>
 
   <div>
@@ -33,7 +33,7 @@
 
   <div>
     <h3>Weitere Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,bash,linux&perline=5" />
   </div>
 
   <div>
