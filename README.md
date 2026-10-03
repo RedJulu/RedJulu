@@ -8,7 +8,7 @@
 
   <div>
     <h3>Programmiersprachen:</h3>
-    <img src="https://skillicons.dev/icons?i=java,kotlin&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,rust&perline=5" />
   </div>
 
   <div>
